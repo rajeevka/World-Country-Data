@@ -1,0 +1,59 @@
+.fading{
+    color: orange;
+}
+.fading1{
+    color: orange;
+}
+/* 
+.worldstyle{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.orange1{
+    height: 30px;
+    background-color: azure;
+}
+.top{
+    background-color: rgb(240, 243, 245);
+    box-shadow: 1px 2px 1px gainsboro;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    line-height: 0px;
+    align-items: center;
+    flex-direction: column;
+    
+}
+h2{
+    font-size: 40px;
+    color: orange;
+}
+#buttonContainer{
+    display: flex;
+    justify-content: center;
+    line-height: 0px;
+    align-items: center;
+    margin: 5px;
+}
+#graphTitle{
+    display: flex;
+    justify-content: center;
+    line-height: 0px;
+    align-items: center;
+}
+button{
+    width: 120px;
+    height: 30px;
+    background-color: orange;
+    color: black;
+    margin: 5px;
+    outline: none;
+    border-color: orange;
+    border-radius: 2px;
+}
+#graphContainer{
+     background-color: rgb(240, 243, 245);
+      box-shadow: 1px 0px 2px gainsboro;
+      height: 80vh;
+}
